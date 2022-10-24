@@ -1,2 +1,2 @@
 # operating-system
-Multithreaded OS kernel. Preemptive, multithreaded kernel for Intel 8086 microprocessor with support for time  sharing, context switching, semaphores and event handling.
+Multithreaded OS kernel. Preemptive, multithreaded kernel for Intel 8086 microprocessor with support of time sharing, context switching, semaphores and event handling.
